@@ -1,4 +1,4 @@
-#AFHTTPSessionManager-RACExtensions
+# AFHTTPSessionManager-RACExtensions
 AFHTTPSessionManager usage via ReactiveCocoa (ReactiveCocoa + AFNetworking)
 
 
@@ -19,7 +19,7 @@ Using
 [AFNetworking (3.1.0)](https://github.com/AFNetworking/AFNetworking/tree/3.1.0)
 [ReactiveCocoa (2.5)](https://github.com/ReactiveCocoa/ReactiveCocoa/tree/v2.5)
 
-##Usage
+## Usage
 Normally, we create a network layer manager and configure it to use AFNetworking :
 
 ```Objective-C
@@ -125,14 +125,14 @@ So, next step is to use it:
          NSLog(@"Error testPostAd : %@", error);
      }];
 ```
-##Example
+## Example
 You can find real usage example in [PixabayTest app](https://github.com/Maxatma/Pixabay), it's really simple, but hope useful.
 
 Just go into [/PixabayTest/Model/Network/PBApiManager](https://github.com/Maxatma/Pixabay/blob/master/PixabayTest/Model/Network/PBApiManager.m)
 
 You also can download and play with it
 
-##Contact
+## Contact
 
 Aleksandr Zaporozhchenko
 [[github]](https://github.com/Maxatma)  [[gmail]](mailto:maxatma.ids@gmail.com)  [[fb]](https://www.facebook.com/profile.php?id=100008291260780)  [[in]](https://www.linkedin.com/in/maxatma/)
